@@ -22,8 +22,8 @@ index 694a13a..89fbbec 100644
  
 -const buildVersion = '4.1.2';
 -const buildNumber = 37;
-+const buildVersion = '6.1.0';
-+const buildNumber = 83;
++const buildVersion = '6.1';
++const buildNumber = 0;
  
  exports.TaskQueueData = TaskQueueData;
  exports.CMailMergeSendData = CMailMergeSendData;
